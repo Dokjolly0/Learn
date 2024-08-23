@@ -1,0 +1,66 @@
+# Node.js (Angular/JavaScript)
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.DS_Store
+.env
+
+# Angular specific
+.angular/
+.angular/cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyd
+*.pyo
+*.pyo
+*.pkl
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+
+# C++
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.dylib
+*.a
+*.lib
+*.idb
+*.pdb
+*.ilk
+*.ds_store
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# JetBrains IDEs
+.idea/
+*.iml
+

@@ -1,0 +1,9 @@
+<div>
+    <button (click)="onSelectUser()"> <!-- Quando clicchi il bottone richiama il metodo onSelectUser-->
+        <img
+          [src]="avatarPath"
+          [alt]="selectedUser.avatar"
+        /> <!--Property binging | avatarPath è un metodo nel file ts-->
+        <span>{{selectedUser.name}}</span> <!--String interpolation-->
+    </button>
+</div>

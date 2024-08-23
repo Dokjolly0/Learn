@@ -1,0 +1,5 @@
+TEMPLATE = subdirs
+
+SUBDIRS += Foundamental Function Classes
+
+F
