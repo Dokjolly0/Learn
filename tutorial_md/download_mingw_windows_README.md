@@ -7,7 +7,7 @@ This README provides instructions on how to set up and use `w64devkit` for compi
    https://github.com/skeeto/w64devkit/releases
    ```
 
-1. Download the `w64devkit` package from the official repository or site.
+1. Download the `w64devkit` pre-build package from the official repository or site (.exe). Check the correct version x86 or x64 for your pc.
 2. Extract the contents of the package into a convenient location on your system, for example, `C:\w64devkit`.
 
 ## 2. Add w64devkit to System Path
